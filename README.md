@@ -3,7 +3,7 @@ Repositori untuk kelas mobile programming.
 
 ## Materi yang dibahas
 Materi yang akan dibahas tentang pengembangan aplikasi android , diantaranya:
-- [X] Pengenalan tentang pemrograman mobile
+- [ ] Pengenalan tentang pemrograman mobile
 - [ ] Pengenalan tentang lingkungan pengembangan aplikasi mobile
 - [ ] installasi android studio dan software pendukung lainnya.
 - [ ] Build aplikasi pertama
@@ -16,6 +16,10 @@ Tool yang digunakan atau yang mesti disiapkan:
 - [ ] Kabel USB
 - [ ] Genymotion (opsional)
 - [ ] -
+
+## Tool Alternatif yang dapat digunakan
+Ini adalah alternatif tool untuk teman-teman yang kebetulan belum ada fasilitas untuk belajar.
+- [ ] [Java N-ide](https://play.google.com/store/apps/details?id=com.duy.compiler.javanide&hl=en)
 
 ## Referensi
 Referensi untuk belajar:
